@@ -3,7 +3,7 @@ Hard taks:
 
 To compare the **R Stochastic** and **Python JSF** models, I conducted **50 independent trials** for 17 birth rate increments from 0.1 to 0.9.
 
-- **Parameters:** Initial Population $(P_0​) = 100$ Max Time $(T) = 8$.
+- **Parameters:** Initial Population $P_0​ = 100$ Max Time $T = 8$.
     
 - **Process:** The death rate $d$ was set as $d=1−b$.
     
