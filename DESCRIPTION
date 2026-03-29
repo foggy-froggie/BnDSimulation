@@ -4,14 +4,13 @@ Title: What the Package Does (Title Case)
 Version: 0.1.0
 Authors@R: c(
     person(
-      "Jane", "Doe",
-      email = "jane@example.com",
+      "Jagna", "Wnuk",
+      email = "jagnawnuk@gmail.com",
       role = c("aut", "cre")
     )
   )
-Description: More about what it does (maybe more than one line).
-    Continuation lines should be indented.
-License: What license is it under?
+Description: Simulation of the Birth and Death stochastic process
+License: 
 Encoding: UTF-8
 LazyData: true
 Imports: 
