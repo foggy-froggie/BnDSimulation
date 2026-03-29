@@ -10,14 +10,14 @@ To compare the **R Stochastic** and **Python JSF** models, I conducted **50 inde
 - **Metrics:** I recorded the final population at $T=8$ to calculate the **mean** and **standard deviation** for each model.
 
 
-![[man/figures/mean.png]]
+![Mean Plot](man/figures/mean.png)
 #### **2. Mean Population Analysis: Convergence at Scale**
 
 - **Observation:** As the birth rate increases (leading to larger final populations), the difference between the two models' averages disappears.
     
 - **Conclusion:** The Python JSF approximation is accurate for predicting the **expected value** of a growing population.
 
-![[man/figures/std.png]]
+![Standard Deviation Plot](man/figures/std.png)
 #### **3. Standard Deviation Analysis: The Chaos Gap**
 
 - **Observation:** In the R model, the Standard Deviation (SD) grows exponentially with the birth probability In the Python model, the SD stays low no matter the birth rate.
